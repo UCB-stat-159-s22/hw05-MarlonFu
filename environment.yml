@@ -2,10 +2,9 @@ name: ligo
 
 dependencies:
   - python=2.7
-  - numpy
-  - scipy
-  - h5py
-  - json
-  - matplotlib
-  - readligo
+  - numpy=1.21
+  - scipy=1.7
+  - h5py=3.6
+  - matplotlib=3.5
+  
   
