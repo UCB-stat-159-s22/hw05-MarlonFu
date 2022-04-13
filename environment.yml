@@ -1,0 +1,11 @@
+name: ligo
+
+dependencies:
+  - python=2.7
+  - numpy
+  - scipy
+  - h5py
+  - json
+  - matplotlib
+  - readligo
+  
