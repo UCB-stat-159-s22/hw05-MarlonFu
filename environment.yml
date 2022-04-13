@@ -5,9 +5,9 @@ dependencies:
   - python=2.7
   - numpy=1.16.6
   - scipy=1.2
-  - h5py=2.5
-  - matplotlib-base=3.5
-  - matplotlib=3.5
+  - h5py=2.9
+  - matplotlib-base=2.0
+  - matplotlib=2.0
   - tqdm=4.62.3
 
   
